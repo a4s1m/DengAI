@@ -151,11 +151,10 @@ These plots confirmed that the models successfully learned **recurring seasonal 
 - Python (Jupyter Notebook)
 
 ### Required Libraries
-pandas
-numpy
-scikit-learn
-xgboost
-matplotlib
-seaborn
-statsmodels
-- 
+- pandas
+- numpy
+- scikit-learn
+- xgboost
+- matplotlib
+- seaborn
+- statsmodels 
