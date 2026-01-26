@@ -151,7 +151,6 @@ These plots confirmed that the models successfully learned **recurring seasonal 
 - Python (Jupyter Notebook)
 
 ### Required Libraries
-```bash
 pandas
 numpy
 scikit-learn
